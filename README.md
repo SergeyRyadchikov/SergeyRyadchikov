@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center"> Hi there  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h2 align="center"> My name is <a href="https://vk.com/ryadchikov_sergey/" target="_blank">Sergey</a> , I'm from Kaluga sity!</h2>
+
+* ### *__:office: I work in the field of sales__*
+* ### *__:mortar_board: I am a student of the online accademia Geek Brains__*
+* ### *__:relaxed: I like sports, traveling, active recreation, getting new knowledge__*
+* ### *__:thought_balloon: I dream of changing my field of activity and becoming a successful developer__*
+
+
 
 <!--
 **SergeyRyadchikov/SergeyRyadchikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
