@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center"> My name is <a href="https://vk.com/ryadchikov_sergey/" target="_blank">Sergey</a> , I'm from Kaluga city!</h2>
 
-* ### *__:office: I work in Sales __*
+* ### *__:office: I work in Sales__*
 * ### *__:mortar_board: I am a programming student of the online Academy "Geekbrains"__*
 * ### *__:relaxed: I like sports, travelling, different activities and studying__*
 * ### *__:thought_balloon: My goal is to change the occupation and to become a successful developer__*
